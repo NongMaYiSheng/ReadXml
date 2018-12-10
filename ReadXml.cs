@@ -1,3 +1,5 @@
+//参考链接：https://www.cnblogs.com/hnsongbiao/p/5636076.html
+
 using System;
 using System.Threading;
 using System.Xml;
